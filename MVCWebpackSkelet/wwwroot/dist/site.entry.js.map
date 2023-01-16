@@ -1,1 +1,0 @@
-{"version":3,"file":"site.entry.js","mappings":"mBAKAA,QAAQC,IAAI,qC","sources":["webpack:///./src/ts/site.ts"],"sourcesContent":["import 'bootstrap/dist/css/bootstrap.css';\r\n\r\n// Custom CSS imports\r\nimport '../css/site.css';\r\n\r\nconsole.log('The \\'site\\' bundle has been loaded!');"],"names":["console","log"],"sourceRoot":""}
