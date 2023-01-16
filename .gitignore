@@ -4,8 +4,8 @@
 ## Get latest from https://github.com/github/gitignore/blob/master/VisualStudio.gitignore
 
 #Webpack Files
-wwwroot/dist/*
-ClientApp/dist/*
+MVCWebpackSkelet/wwwroot/dist/
+MVCWebpackSkelet/ClientApp/dist/
 
 # User-specific files
 *.rsuser
